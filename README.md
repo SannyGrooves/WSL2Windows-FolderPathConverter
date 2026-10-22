@@ -10,7 +10,7 @@ DONT SCAN COMPLETE c: DRIVE OR OTHER SYSTEM DRIVES, APP WILL CRASH! IT WILL SCAN
 <img width="929" height="438" alt="{6B59B883-4554-4534-9700-89A926071D22}" src="https://github.com/user-attachments/assets/5bded460-c301-4f73-8fe7-554d26b06ab1" />
 4. select the start ./ folder dir:
 <img width="928" height="434" alt="{15B40D71-61C8-41D6-BCBF-3BD3D511B404}" src="https://github.com/user-attachments/assets/47302834-44c5-431f-b7a9-253173957d83" />
-5. Copy the adress:
+#5. Copy the adress:
 <img width="929" height="444" alt="{9D9AD751-51C2-4AB2-9414-46EE7D9688A3}" src="https://github.com/user-attachments/assets/6326aae3-da87-46b1-96b7-7dc79378a223" />
 
 IF NOT START.. MAKE SHORTCUT AND LOAD FROM SHORTCUT AS ADMIN
