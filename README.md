@@ -4,6 +4,11 @@ Path converter for folder adres from Windows to WSL2 Linux for AI or research pu
 WARNING!
 DONT SCAN COMPLETE c: DRIVE OR OTHER SYSTEM DRIVES, APP WILL CRASH! IT WILL SCAN ALL FOLDER PATHS AND STORES IT ONTO RAM TEMP.
 
+#UPDATED UI!
+
+<img width="1032" height="615" alt="{6AC83DF4-6113-40CF-8AF2-D035AD96E844}" src="https://github.com/user-attachments/assets/120d9894-b16b-4157-beee-14060ada8706" />
+
+old version but same steps:
 #1. set root folder to scan:
 <img width="933" height="635" alt="{362396E3-179D-4E18-A06C-C29131904F96}" src="https://github.com/user-attachments/assets/c39b8963-ecc1-4225-a53e-84dbf2f903a2" />
 #2. select folder you want: 
