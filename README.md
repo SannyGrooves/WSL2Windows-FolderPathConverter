@@ -24,9 +24,12 @@ old version but same steps:
 #5. Copy the adress:
 <img width="929" height="444" alt="{9D9AD751-51C2-4AB2-9414-46EE7D9688A3}" src="https://github.com/user-attachments/assets/6326aae3-da87-46b1-96b7-7dc79378a223" />
 =====================================================================================
+
 IF NOT START.. MAKE SHORTCUT AND LOAD FROM SHORTCUT AS ADMIN
 =====================================================================================
+
 use with apps like Ace-step1.5 or other ai apps for fast directory scanning and load your samples for training etc..
 also handy for linux dev those who work on windows via WSL.
 =====================================================================================
+
 DISPLAIMER: PROGRAM IS MADE WITH AI
